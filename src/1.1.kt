@@ -2,7 +2,7 @@ fun main() {
     var i = 1
     var j : Int = 2
     var a : Double  = 14.52
-    var b : String = "R"
+    var b : String = "Shoryu"
     var c : Char = 't'
     var d : Boolean = false
     var e : Float = 3.5f
